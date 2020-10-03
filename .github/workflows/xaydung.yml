@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/Pixel/Pixel-AB-R-20200221-ErfanGSI.img-0414.7z
+  ROM_NAME: Pixel
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
