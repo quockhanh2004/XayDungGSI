@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL: https://get.pixelexperience.org/RFAxS1Zyb09JRUcxM2trL3pZZlBaRmRXcEF5aDN6VHdmNThWZmJsK2NML3Y2d1FJSEhuSW05ZWZwSXFiS1FGTlBnTzkvSjhtaU9rZDh3TG1kYkI1QU1CYmRQYzZVTDZvYWVIUnVrQUt2Vngwd1E5YjZmblFUaFB2amp5RUVtYk4=/PixelExperience_Plus_lavender-10.0-20201222-1345-OFFICIAL.zip
+  ROM_NAME: Pixel
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
